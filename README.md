@@ -1,8 +1,8 @@
 # ¡Hola! Soy Hiba 👋
 
 🎓 Graduada en **Desarrollo de Aplicaciones Multiplataforma (DAM)** — I.E.S. Laguna de Joatzel, Comunidad de Madrid
-💻 Desarrolladora **Full-Stack Java**
-🔍 Actualmente en búsqueda de una oportunidad profesional como desarrolladora
+Desarrolladora **Full-Stack Java**
+Actualmente en búsqueda de una oportunidad profesional como desarrolladora
 
 ---
 
