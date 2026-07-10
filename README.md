@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 **Backend & lenguajes**
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 **Campus Virtual** · Proyecto profesional — Melit Technologies
 Plataforma de formación construida con JHipster (Spring Boot + Angular). Desarrollo full-stack y migraciones de base de datos con Liquibase, en equipo con metodología Scrum.
@@ -62,7 +62,7 @@ Sistema de gestión de talleres mecánicos: app Android nativa (Kotlin + Jetpack
 
 ---
 
-### 📂 Otros proyectos
+### Otros proyectos
 
 - **[accesoDatos](https://github.com/HibaSam611/accesoDatos)** — ejercicios de acceso a datos: JAXB, MongoDB, ficheros JSON/TXT/DAT, parsing SAX.
 - **[PracticaDAO](https://github.com/HibaSam611/PracticaDAO)** — implementación del patrón DAO en Java.
@@ -74,7 +74,7 @@ Sistema de gestión de talleres mecánicos: app Android nativa (Kotlin + Jetpack
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 - 🌐 Portfolio: [hibasam611.github.io/portfolio](https://hibasam611.github.io/portfolio/)
 - 💼 LinkedIn: [hiba-samraoui-programador-desarrollador](https://www.linkedin.com/in/hiba-samraoui-programador-desarrollador/)
